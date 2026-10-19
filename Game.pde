@@ -22,6 +22,7 @@ String getJankenResult(String hand) {
      return "CPU Win!";
    }
 
+
  return null;
 }
 
