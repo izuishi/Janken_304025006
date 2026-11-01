@@ -26,8 +26,9 @@ class Game {
         return "CPU Win!";
       }
 
-    return null;
-  }
+
+ return null;
+}
 
   String desideCpuHand() {
     int cpuHandNum = (int)random(3);
